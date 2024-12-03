@@ -9,7 +9,7 @@ To implement  JK flipflop using verilog and validating their functionality using
 Quartus prime
 
 **THEORY**
-The JK flip-flop is a digital memory circuit with two inputs, labeled J (Set) and K (Reset), and two outputs, Q and Q'. It is a refinement of the SR flip-flop, resolving the undefined state when both inputs are high. When both J and K are high, the JK flip-flop toggles its output state on each clock pulse. It is widely used in counters, shift registers, and other sequential circuits due to its versatile functionality.
+The JK flip-flop is a digital memory circuit with two inputs, labeled J (Set) and K (Reset), and two outputs, Q and Q'. It is a refinement of the SR flip-flop, resolving the undefined state when both inputs are high. When both J and K are high, the JK flip-flop toggles its output state on each clock pulse. It is widely used in counters, shift registers, and other sequential circuits due to its versatile functionality..
 **JK Flip-Flop**
 
 JK flip-flop is the modified version of SR flip-flop. It operates with only positive clock transitions or negative clock transitions. The circuit diagram of JK flip-flop is shown in the following figure.
