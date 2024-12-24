@@ -85,6 +85,7 @@ module jk_ff (j, k, clk, rst, q);
   end
   
   endmodule
+  
 **RTL LOGIC FOR JK FLIP FLOP**
 
 ![image](https://github.com/user-attachments/assets/21b00bb3-5098-4f72-bbf1-adc64a0b597e)
